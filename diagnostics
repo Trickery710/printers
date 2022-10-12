@@ -1,0 +1,11 @@
+table of contentents
+ 1 cheatsheets
+ 
+ 2 install pronterface
+   sudo apt update
+   sudo apt install printrun
+  
+  3 use gcode to test hardwae
+    https://marlinfw.org/meta/gcode/
+    
+  4
